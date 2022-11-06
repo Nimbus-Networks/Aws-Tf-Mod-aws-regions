@@ -1,4 +1,4 @@
-variable "azure_region" {
+variable "aws_region" {
   type        = string
-  description = "Azure Region standard name, CLI name or slug format"
+  description = "AWS Region standard name, CLI name or slug format"
 }
